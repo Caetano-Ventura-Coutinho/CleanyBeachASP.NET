@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ansco\\Desktop\\ablubublubl\u00E9\\CleanyBeachASP.NET\\CleanyBeachesASP.NET\\",
+  "WorkspaceRootPath": "C:\\Users\\2DS\\Desktop\\2ds\\CleanyBeachASP.NET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC4A6214-DE02-4E66-8345-F600115574AC}|ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj|c:\\users\\ansco\\desktop\\ablubublubl\u00E9\\cleanybeachasp.net\\cleanybeachesasp.net\\projetocleanybeaches\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{FC4A6214-DE02-4E66-8345-F600115574AC}|ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj|solutionrelative:projetocleanybeaches\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC4A6214-DE02-4E66-8345-F600115574AC}|ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj|c:\\users\\ansco\\desktop\\ablubublubl\u00E9\\cleanybeachasp.net\\cleanybeachesasp.net\\projetocleanybeaches\\views\\home\\rotas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC4A6214-DE02-4E66-8345-F600115574AC}|ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj|solutionrelative:projetocleanybeaches\\views\\home\\rotas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC4A6214-DE02-4E66-8345-F600115574AC}|ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj|c:\\users\\ansco\\desktop\\ablubublubl\u00E9\\cleanybeachasp.net\\cleanybeachesasp.net\\projetocleanybeaches\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC4A6214-DE02-4E66-8345-F600115574AC}|ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj|solutionrelative:projetocleanybeaches\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC4A6214-DE02-4E66-8345-F600115574AC}|ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj|c:\\users\\ansco\\desktop\\ablubublubl\u00E9\\cleanybeachasp.net\\cleanybeachesasp.net\\projetocleanybeaches\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC4A6214-DE02-4E66-8345-F600115574AC}|ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj|solutionrelative:projetocleanybeaches\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC4A6214-DE02-4E66-8345-F600115574AC}|ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj|c:\\users\\ansco\\desktop\\ablubublubl\u00E9\\cleanybeachasp.net\\cleanybeachesasp.net\\projetocleanybeaches\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FC4A6214-DE02-4E66-8345-F600115574AC}|ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj|c:\\users\\2ds\\desktop\\2ds\\cleanybeachasp.net\\projetocleanybeaches\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FC4A6214-DE02-4E66-8345-F600115574AC}|ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj|solutionrelative:projetocleanybeaches\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC4A6214-DE02-4E66-8345-F600115574AC}|ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj|c:\\users\\ansco\\desktop\\ablubublubl\u00E9\\cleanybeachasp.net\\cleanybeachesasp.net\\projetocleanybeaches\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FC4A6214-DE02-4E66-8345-F600115574AC}|ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj|c:\\users\\2ds\\desktop\\2ds\\cleanybeachasp.net\\projetocleanybeaches\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FC4A6214-DE02-4E66-8345-F600115574AC}|ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj|solutionrelative:projetocleanybeaches\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4A6214-DE02-4E66-8345-F600115574AC}|ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj|c:\\users\\2ds\\desktop\\2ds\\cleanybeachasp.net\\projetocleanybeaches\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC4A6214-DE02-4E66-8345-F600115574AC}|ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj|solutionrelative:projetocleanybeaches\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4A6214-DE02-4E66-8345-F600115574AC}|ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj|c:\\users\\2ds\\desktop\\2ds\\cleanybeachasp.net\\projetocleanybeaches\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FC4A6214-DE02-4E66-8345-F600115574AC}|ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj|solutionrelative:projetocleanybeaches\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4A6214-DE02-4E66-8345-F600115574AC}|ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj|c:\\users\\2ds\\desktop\\2ds\\cleanybeachasp.net\\projetocleanybeaches\\views\\home\\rotas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC4A6214-DE02-4E66-8345-F600115574AC}|ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj|solutionrelative:projetocleanybeaches\\views\\home\\rotas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4A6214-DE02-4E66-8345-F600115574AC}|ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj|c:\\users\\2ds\\desktop\\2ds\\cleanybeachasp.net\\projetocleanybeaches\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC4A6214-DE02-4E66-8345-F600115574AC}|ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj|solutionrelative:projetocleanybeaches\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,25 +37,28 @@
           "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Rotas.cshtml",
-              "DocumentMoniker": "C:\\Users\\ansco\\Desktop\\ablubublubl\u00E9\\CleanyBeachASP.NET\\CleanyBeachesASP.NET\\ProjetoCleanyBeaches\\Views\\Home\\Rotas.cshtml",
-              "RelativeDocumentMoniker": "ProjetoCleanyBeaches\\Views\\Home\\Rotas.cshtml",
-              "ToolTip": "C:\\Users\\ansco\\Desktop\\ablubublubl\u00E9\\CleanyBeachASP.NET\\CleanyBeachesASP.NET\\ProjetoCleanyBeaches\\Views\\Home\\Rotas.cshtml",
-              "RelativeToolTip": "ProjetoCleanyBeaches\\Views\\Home\\Rotas.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-20T02:01:44.117Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "Rotas.cshtml",
+              "DocumentMoniker": "C:\\Users\\2DS\\Desktop\\2ds\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\Views\\Home\\Rotas.cshtml",
+              "RelativeDocumentMoniker": "ProjetoCleanyBeaches\\Views\\Home\\Rotas.cshtml",
+              "ToolTip": "C:\\Users\\2DS\\Desktop\\2ds\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\Views\\Home\\Rotas.cshtml",
+              "RelativeToolTip": "ProjetoCleanyBeaches\\Views\\Home\\Rotas.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T02:01:44.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ansco\\Desktop\\ablubublubl\u00E9\\CleanyBeachASP.NET\\CleanyBeachesASP.NET\\ProjetoCleanyBeaches\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\2DS\\Desktop\\2ds\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ProjetoCleanyBeaches\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ansco\\Desktop\\ablubublubl\u00E9\\CleanyBeachASP.NET\\CleanyBeachesASP.NET\\ProjetoCleanyBeaches\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\2DS\\Desktop\\2ds\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ProjetoCleanyBeaches\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAzwBQAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -63,35 +66,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\ansco\\Desktop\\ablubublubl\u00E9\\CleanyBeachASP.NET\\CleanyBeachesASP.NET\\ProjetoCleanyBeaches\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\2DS\\Desktop\\2ds\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "ProjetoCleanyBeaches\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\ansco\\Desktop\\ablubublubl\u00E9\\CleanyBeachASP.NET\\CleanyBeachesASP.NET\\ProjetoCleanyBeaches\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\2DS\\Desktop\\2ds\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "ProjetoCleanyBeaches\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-15T01:07:01.442Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ansco\\Desktop\\ablubublubl\u00E9\\CleanyBeachASP.NET\\CleanyBeachesASP.NET\\ProjetoCleanyBeaches\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ProjetoCleanyBeaches\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ansco\\Desktop\\ablubublubl\u00E9\\CleanyBeachASP.NET\\CleanyBeachesASP.NET\\ProjetoCleanyBeaches\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ProjetoCleanyBeaches\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACoAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-14T23:20:03.85Z"
+              "WhenOpened": "2024-06-15T01:07:01.442Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\2DS\\Desktop\\2ds\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjetoCleanyBeaches\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\2DS\\Desktop\\2ds\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProjetoCleanyBeaches\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAASwCYAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T23:20:03.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\ansco\\Desktop\\ablubublubl\u00E9\\CleanyBeachASP.NET\\CleanyBeachesASP.NET\\ProjetoCleanyBeaches\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\2DS\\Desktop\\2ds\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "ProjetoCleanyBeaches\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\ansco\\Desktop\\ablubublubl\u00E9\\CleanyBeachASP.NET\\CleanyBeachesASP.NET\\ProjetoCleanyBeaches\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\2DS\\Desktop\\2ds\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\wwwroot\\css\\site.css",
               "RelativeToolTip": "ProjetoCleanyBeaches\\wwwroot\\css\\site.css",
               "ViewState": "AQIAAGEAAAAAAAAAAAAAAHEAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -102,13 +107,14 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ansco\\Desktop\\ablubublubl\u00E9\\CleanyBeachASP.NET\\CleanyBeachesASP.NET\\ProjetoCleanyBeaches\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\2DS\\Desktop\\2ds\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ProjetoCleanyBeaches\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ansco\\Desktop\\ablubublubl\u00E9\\CleanyBeachASP.NET\\CleanyBeachesASP.NET\\ProjetoCleanyBeaches\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\2DS\\Desktop\\2ds\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ProjetoCleanyBeaches\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABgAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAABgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-13T11:14:57.171Z"
+              "WhenOpened": "2024-06-13T11:14:57.171Z",
+              "EditorCaption": ""
             }
           ]
         }
