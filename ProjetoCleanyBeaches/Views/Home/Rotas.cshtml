@@ -2,44 +2,29 @@
    ViewData["Title"] = "Rotas";
 }
 
-    <nav class="navNomesPraias">
-    <ul>
-        <li>
-            <a>Praia do Félix</a>
-        </li>
-        <li>
-            <a>Praia do Lázaro</a>
-        </li>
-        <li>
-            <a>Praia da Enseada</a>
-        </li>
-    </ul>
-</nav>
-<nav class="navImgPraias">
-    <ul>
-        <li>
-            <img src="~/img/imgPraia3.png" class="imgPraias" />
-        </li>
-        <li>
-            <img src="~/img/imgPraia2.png" class="imgPraias" />
-        </li>
-        <li>
-            <img src="~/img/imgPraia1.png" class="imgPraias" />
-        </li>
-    </ul>
-</nav>
-<nav class="navTextBoxRoutes">
-    <ul>
-        <li>
-            <a>Acesso através do Km 39,9 da Br-101, entrando pela portaria do condomínio, descendo por via asfaltada por 1,5Km; Caminhada de aproximadamente 5 min para chegar a praia.</a>
-        </li>
-        <li>
-            <a>Para chegar lá, basta seguir pela rodovia BR-101 e, em Ubatuba, pegar a avenida principal que leva ao bairro do Lázaro.</a>
-        </li>
-        <li>
-            <a>Acesso pela Rodovia Rio-Santos (BR-101). Basta seguir pela rodovia até o trevo de Ubatuba e então pegar a saída em direção ao bairro de Toninhas, onde a praia está localizada.</a>
-        </li>
-    </ul>
-</nav>
-    
+<div class="Praias">
 
+<container class="Praia">
+    <h1 class="NomesPraias">Praia do Félix</h1>
+    <img src="~/img/imgPraia3.png" class="imgPraias"/>
+        <container class="TextBoxRoutes">
+        <a>Acesso através do Km 39,9 da Br-101, entrando pela portaria do condomínio, descendo por via asfaltada por 1,5Km; Caminhada de aproximadamente 5 min para chegar a praia.</a>
+    </container>
+</container>
+
+<container class="Praia">
+    <h1 class="NomesPraias">Praia do Lázaro</h1>
+        <img src="~/img/imgPraia2.png" class="imgPraias" />
+        <container class="TextBoxRoutes">
+        <a>Para chegar lá, basta seguir pela rodovia BR-101 e, em Ubatuba, pegar a avenida principal que leva ao bairro do Lázaro.</a>
+    </container>
+</container>
+
+<container class="Praia">
+    <h1 class="NomesPraias">Praia da Enseada</h1>
+        <img src="~/img/imgPraia1.png" class="imgPraias" />
+    <container class="TextBoxRoutes">
+        <a>Acesso pela Rodovia Rio-Santos (BR-101). Basta seguir pela rodovia até o trevo de Ubatuba e então pegar a saída em direção ao bairro de Toninhas, onde a praia está localizada.</a>
+    </container>
+</container>
+</div>

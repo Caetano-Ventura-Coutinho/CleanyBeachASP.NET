@@ -2,7 +2,7 @@ html {
   font-size: 14px;
 }
 
-@media (min-width: 768px) {
+@media (min- : 768px) {
   html {
     font-size: 16px;
   }
@@ -13,126 +13,120 @@ html {
 }
 
 html {
-  position: relative;
+  
   min-height: 100%;
 }
 
 body {
-    margin-bottom: 60px;
     background-color: #FFFACE;
     height: 900px;
 }
+
+#ContainerLayout {
+    display: grid;
+}
+
 .navbar {
     background-color: #00B9F3;
     height: 100px;
     border: 2px solid;
+
 }
     .navbar a {
         color: black;
         font-size: 52px;
-        margin-left: 25px;
-        padding-top: 1px;
         font-family: "Homenaje", sans-serif;
     }
+
 .navOrganizar ul {
     border: 10px;
     height: 70px;
     background-color: #FFFACE;
     display: flex;
-    gap: 28px;
-    margin-left: 25px;
+    justify-content:center;
+    padding: 10px;
+    gap: 200px;
 }
     .navOrganizar ul li {
+        display: flex;
+        justify-content: center;
         list-style: none;
-        margin-top: 16px;
-        margin-left: 20px;
         background-color: #85E2FF;
         height: 40px;
-        width: 250px;
         border: 2px solid;
         border-radius: 6px;
+        width: 200px;
     }
 
         .navOrganizar ul li a {
             font-size: 17px;
-            margin-left: 80px;
         }
-.navNomesPraias ul {
+
+.Praias{
     display: flex;
+    justify-content: center;
+}
+.Praia {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 100px;
+}
+
+
+.NomesPraias {
+    display: flex;
+    justify-content: center;
     height: 40px;
-    gap: 190px;
-    margin-left: 100px;
-    margin-top: 75px;
+    font-size: 30px;    
 }
 
-    .navNomesPraias ul li {
-        list-style: none;
-        margin-left: 16px;
-    }
-        .navNomesPraias ul li a {
-            font-size: 30px;
-        }
-.navImgPraias ul {
-    margin-top: 60px;
-    gap: 60px;
-    display: flex;
-}
 
-    .navImgPraias ul li {
-        list-style: none;
-        margin-left: 64px;
-    }
 
 .imgPraias {
-    width: 286px;
-    height: 214px;
-}
-.navTextBox ul {
     display: flex;
-    gap: 60px;
-    margin-left: 31px;
+    justify-content: center;
+    align-items:center;
+    padding-block: 50px;
 }
 
-.navTextBoxRoutes ul {
+
+.TextBox {
     display: flex;
-    gap: 60px;
-    margin-left: 31px;
+    justify-content: center;
+    background-color: #FFFEEC;
+    list-style: none;
+    height: 140px;
+    border-radius: 17px;
+    width: 300px;
 }
-
-    .navTextBox ul li {
-        background-color: #FFFEEC;
-        list-style: none;
-        width: 350px;
-        height: 140px;
-        border-radius: 17px;
-    }
-
-    .navTextBoxRoutes ul li {
-        background-color: #FFFEEC;
-        list-style: none;
-        width: 350px;
-        height: 300px;
-        border-radius: 17px;
-    }
-
-        .navTextBox ul li img {
-            width: 40px;
+        .TextBox img {
             height: 40px;
         }
 
+    .TextBox a{
+        padding: 50px;
+        font-size: 15px;
+        color: black;
+    }
 
-        .navTextBox ul li a {
-            margin-left: 50px;
-            display: flex;
-            margin-top: 50px;
-            font-size: 20px;
-        }
 
-.navTextBoxRoutes ul li a {
-    margin-left: 50px;
+        
+.TextBoxRoutes{
     display: flex;
-    margin-top: 50px;
-    font-size: 20px;
+    background-color: #FFFEEC;
+    list-style: none;
+    height: 150px;
+    border-radius: 17px;
+    text-align:center;
+    justify-content:center;
+    }
+
+
+.TextBoxRoutes a {
+    display: flex;
+    font-size: 19px;
+    padding: 10px;
 }
 footer {
     background-color: #00B9F3;
@@ -140,6 +134,8 @@ footer {
 
 .container {
     color: black;
-    margin-left: 450px;
 }
 
+.nav-ites{
+
+}
