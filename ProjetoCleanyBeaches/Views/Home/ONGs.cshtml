@@ -1,0 +1,19 @@
+﻿@model IEnumerable<ONG>
+@{
+    ViewData["Title"] = "ONG's";
+}
+<container class="ONGs">
+    @foreach (var ongs in Model)
+    {   
+        <container class="ONG" style="background-color: @ongs.Color">
+            <img src="~/img/@ongs.Img" class="imgOng"/>
+            <h1>@ongs.Nome</h1>
+            <p>Região em que atua: @ongs.regiao.Nome</p>
+            <container class="RedesSociais">
+                <a href="@ongs.Facebook"><img src="~/img/facebook.png"></a>
+                <a href="@ongs.Instagram"><img src="~/img/Instagram.png"></a>
+            </container>
+            <p class="Contatos">Telefone: @ongs.Telefone / Email: @ongs.Email</p>
+        </container>
+    }
+</container>

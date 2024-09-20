@@ -136,6 +136,78 @@ footer {
     color: black;
 }
 
-.nav-ites{
-
+#BoxSobre {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: #FFFEEC;
+    height: 538px;
+    border-radius: 17px;
+    width: 1429px;
+    padding: 5%;
 }
+
+.CenterBox{
+    justify-content:center;
+    align-items:center;
+    display:flex;
+    padding: 50px;
+}
+
+.TextSobre{
+    display:flex;
+    font-size: 48px;
+}
+
+.Atributos{
+    flex-direction: row;
+    justify-content: center;
+}
+
+.ONGs {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.ONG{
+    text-align:center;
+    align-items:center;
+    display:flex;
+    height: 800px;
+    width:33%;
+    stroke:ActiveBorder;
+    flex-direction:column;
+    border: solid;
+}
+
+.ONG p{
+    font-size: 20px;
+}
+
+.imgOng {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    height: 150px;
+    width: 150px;
+    gap: 20px;
+}
+
+.RedesSociais {
+    flex-direction: row;
+    padding: 50px;
+    gap:20px;
+    width: 100%;
+}
+.RedesSociais img {
+    margin-top: 100px;
+    height: 100px;
+    width: 100px;
+}
+.Contatos{
+    padding: 20px;
+}
+
+

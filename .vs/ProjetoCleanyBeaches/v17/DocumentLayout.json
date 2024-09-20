@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ansco\\Desktop\\Etec - 2024\\CleanyBeachesAspNet\\CleanyBeachASP.NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4A6214-DE02-4E66-8345-F600115574AC}|ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj|c:\\users\\ansco\\desktop\\etec - 2024\\cleanybeachesaspnet\\cleanybeachasp.net\\projetocleanybeaches\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC4A6214-DE02-4E66-8345-F600115574AC}|ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj|solutionrelative:projetocleanybeaches\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4A6214-DE02-4E66-8345-F600115574AC}|ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj|c:\\users\\ansco\\desktop\\etec - 2024\\cleanybeachesaspnet\\cleanybeachasp.net\\projetocleanybeaches\\views\\home\\ongs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC4A6214-DE02-4E66-8345-F600115574AC}|ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj|solutionrelative:projetocleanybeaches\\views\\home\\ongs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4A6214-DE02-4E66-8345-F600115574AC}|ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj|c:\\users\\ansco\\desktop\\etec - 2024\\cleanybeachesaspnet\\cleanybeachasp.net\\projetocleanybeaches\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FC4A6214-DE02-4E66-8345-F600115574AC}|ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj|solutionrelative:projetocleanybeaches\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4A6214-DE02-4E66-8345-F600115574AC}|ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj|c:\\users\\ansco\\desktop\\etec - 2024\\cleanybeachesaspnet\\cleanybeachasp.net\\projetocleanybeaches\\models\\ong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC4A6214-DE02-4E66-8345-F600115574AC}|ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj|solutionrelative:projetocleanybeaches\\models\\ong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4A6214-DE02-4E66-8345-F600115574AC}|ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj|c:\\users\\ansco\\desktop\\etec - 2024\\cleanybeachesaspnet\\cleanybeachasp.net\\projetocleanybeaches\\views\\home\\rotas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC4A6214-DE02-4E66-8345-F600115574AC}|ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj|solutionrelative:projetocleanybeaches\\views\\home\\rotas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4A6214-DE02-4E66-8345-F600115574AC}|ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj|c:\\users\\ansco\\desktop\\etec - 2024\\cleanybeachesaspnet\\cleanybeachasp.net\\projetocleanybeaches\\models\\praia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC4A6214-DE02-4E66-8345-F600115574AC}|ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj|solutionrelative:projetocleanybeaches\\models\\praia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4A6214-DE02-4E66-8345-F600115574AC}|ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj|c:\\users\\ansco\\desktop\\etec - 2024\\cleanybeachesaspnet\\cleanybeachasp.net\\projetocleanybeaches\\views\\home\\sobre.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC4A6214-DE02-4E66-8345-F600115574AC}|ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj|solutionrelative:projetocleanybeaches\\views\\home\\sobre.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4A6214-DE02-4E66-8345-F600115574AC}|ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj|c:\\users\\ansco\\desktop\\etec - 2024\\cleanybeachesaspnet\\cleanybeachasp.net\\projetocleanybeaches\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC4A6214-DE02-4E66-8345-F600115574AC}|ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj|solutionrelative:projetocleanybeaches\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4A6214-DE02-4E66-8345-F600115574AC}|ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj|c:\\users\\ansco\\desktop\\etec - 2024\\cleanybeachesaspnet\\cleanybeachasp.net\\projetocleanybeaches\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC4A6214-DE02-4E66-8345-F600115574AC}|ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj|solutionrelative:projetocleanybeaches\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ONGs.cshtml",
+              "DocumentMoniker": "C:\\Users\\ansco\\Desktop\\Etec - 2024\\CleanyBeachesAspNet\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\Views\\Home\\ONGs.cshtml",
+              "RelativeDocumentMoniker": "ProjetoCleanyBeaches\\Views\\Home\\ONGs.cshtml",
+              "ToolTip": "C:\\Users\\ansco\\Desktop\\Etec - 2024\\CleanyBeachesAspNet\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\Views\\Home\\ONGs.cshtml",
+              "RelativeToolTip": "ProjetoCleanyBeaches\\Views\\Home\\ONGs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T05:25:45.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ONG.cs",
+              "DocumentMoniker": "C:\\Users\\ansco\\Desktop\\Etec - 2024\\CleanyBeachesAspNet\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\Models\\ONG.cs",
+              "RelativeDocumentMoniker": "ProjetoCleanyBeaches\\Models\\ONG.cs",
+              "ToolTip": "C:\\Users\\ansco\\Desktop\\Etec - 2024\\CleanyBeachesAspNet\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\Models\\ONG.cs",
+              "RelativeToolTip": "ProjetoCleanyBeaches\\Models\\ONG.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T04:55:20.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rotas.cshtml",
+              "DocumentMoniker": "C:\\Users\\ansco\\Desktop\\Etec - 2024\\CleanyBeachesAspNet\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\Views\\Home\\Rotas.cshtml",
+              "RelativeDocumentMoniker": "ProjetoCleanyBeaches\\Views\\Home\\Rotas.cshtml",
+              "ToolTip": "C:\\Users\\ansco\\Desktop\\Etec - 2024\\CleanyBeachesAspNet\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\Views\\Home\\Rotas.cshtml",
+              "RelativeToolTip": "ProjetoCleanyBeaches\\Views\\Home\\Rotas.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T22:56:31.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Praia.cs",
+              "DocumentMoniker": "C:\\Users\\ansco\\Desktop\\Etec - 2024\\CleanyBeachesAspNet\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\Models\\Praia.cs",
+              "RelativeDocumentMoniker": "ProjetoCleanyBeaches\\Models\\Praia.cs",
+              "ToolTip": "C:\\Users\\ansco\\Desktop\\Etec - 2024\\CleanyBeachesAspNet\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\Models\\Praia.cs",
+              "RelativeToolTip": "ProjetoCleanyBeaches\\Models\\Praia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T22:00:09.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ansco\\Desktop\\Etec - 2024\\CleanyBeachesAspNet\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjetoCleanyBeaches\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ansco\\Desktop\\Etec - 2024\\CleanyBeachesAspNet\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProjetoCleanyBeaches\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T21:12:48.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ansco\\Desktop\\Etec - 2024\\CleanyBeachesAspNet\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ProjetoCleanyBeaches\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ansco\\Desktop\\Etec - 2024\\CleanyBeachesAspNet\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ProjetoCleanyBeaches\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAuwLEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-19T20:25:05.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ansco\\Desktop\\Etec - 2024\\CleanyBeachesAspNet\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProjetoCleanyBeaches\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ansco\\Desktop\\Etec - 2024\\CleanyBeachesAspNet\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProjetoCleanyBeaches\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T19:07:12.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sobre.cshtml",
+              "DocumentMoniker": "C:\\Users\\ansco\\Desktop\\Etec - 2024\\CleanyBeachesAspNet\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\Views\\Home\\Sobre.cshtml",
+              "RelativeDocumentMoniker": "ProjetoCleanyBeaches\\Views\\Home\\Sobre.cshtml",
+              "ToolTip": "C:\\Users\\ansco\\Desktop\\Etec - 2024\\CleanyBeachesAspNet\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\Views\\Home\\Sobre.cshtml",
+              "RelativeToolTip": "ProjetoCleanyBeaches\\Views\\Home\\Sobre.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T18:40:31.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ansco\\Desktop\\Etec - 2024\\CleanyBeachesAspNet\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProjetoCleanyBeaches\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ansco\\Desktop\\Etec - 2024\\CleanyBeachesAspNet\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProjetoCleanyBeaches\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAIwHIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T18:26:59.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

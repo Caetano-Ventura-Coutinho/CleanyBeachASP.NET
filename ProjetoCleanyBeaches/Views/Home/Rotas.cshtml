@@ -1,30 +1,30 @@
-﻿@{
-   ViewData["Title"] = "Rotas";
+﻿@model IEnumerable<Praia>
+@{
+    ViewData["Title"] = "Rotas";
+
+    
 }
 
 <div class="Praias">
 
-<container class="Praia">
-    <h1 class="NomesPraias">Praia do Félix</h1>
-    <img src="~/img/imgPraia3.png" class="imgPraias"/>
-        <container class="TextBoxRoutes">
-        <a>Acesso através do Km 39,9 da Br-101, entrando pela portaria do condomínio, descendo por via asfaltada por 1,5Km; Caminhada de aproximadamente 5 min para chegar a praia.</a>
-    </container>
-</container>
+@foreach (var praias in Model){
 
 <container class="Praia">
-    <h1 class="NomesPraias">Praia do Lázaro</h1>
-        <img src="~/img/imgPraia2.png" class="imgPraias" />
-        <container class="TextBoxRoutes">
-        <a>Para chegar lá, basta seguir pela rodovia BR-101 e, em Ubatuba, pegar a avenida principal que leva ao bairro do Lázaro.</a>
-    </container>
-</container>
-
-<container class="Praia">
-    <h1 class="NomesPraias">Praia da Enseada</h1>
-        <img src="~/img/imgPraia1.png" class="imgPraias" />
+    <h1 class="NomesPraias">@praias.Nome</h1>
+            <img src="~/img/@praias.img" class="imgPraias" alt="@praias.img" />
+    <div class = "Atributos">
+        @if (@praias.condicao == "Própria"){
+        <h1 class="text-success" style="font-size: 20px" >Condição: @praias.condicao </h1>
+        }
+        else{
+        <h1 class="text-danger" style="font-size: 20px" >Condição: @praias.condicao </h1>
+        }
+                <h1 class="municipio" style="font-size: 20px"> Município: @praias.municipio.Nome </h1>
+    </div>
     <container class="TextBoxRoutes">
-        <a>Acesso pela Rodovia Rio-Santos (BR-101). Basta seguir pela rodovia até o trevo de Ubatuba e então pegar a saída em direção ao bairro de Toninhas, onde a praia está localizada.</a>
+        <a>@praias.rota</a>
     </container>
 </container>
+}
+
 </div>

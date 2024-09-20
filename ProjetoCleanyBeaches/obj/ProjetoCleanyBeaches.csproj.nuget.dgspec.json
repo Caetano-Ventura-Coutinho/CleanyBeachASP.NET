@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\2A-DS-PI\\3 Bimestre duplas\\CAETANO E DANIEL\\Caetano\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj": {}
+    "C:\\Users\\ansco\\Desktop\\Etec - 2024\\CleanyBeachesAspNet\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj": {}
   },
   "projects": {
-    "F:\\2A-DS-PI\\3 Bimestre duplas\\CAETANO E DANIEL\\Caetano\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj": {
+    "C:\\Users\\ansco\\Desktop\\Etec - 2024\\CleanyBeachesAspNet\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\2A-DS-PI\\3 Bimestre duplas\\CAETANO E DANIEL\\Caetano\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj",
+        "projectUniqueName": "C:\\Users\\ansco\\Desktop\\Etec - 2024\\CleanyBeachesAspNet\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj",
         "projectName": "ProjetoCleanyBeaches",
-        "projectPath": "F:\\2A-DS-PI\\3 Bimestre duplas\\CAETANO E DANIEL\\Caetano\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj",
-        "packagesPath": "C:\\Users\\2ds\\.nuget\\packages\\",
-        "outputPath": "F:\\2A-DS-PI\\3 Bimestre duplas\\CAETANO E DANIEL\\Caetano\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\obj\\",
+        "projectPath": "C:\\Users\\ansco\\Desktop\\Etec - 2024\\CleanyBeachesAspNet\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj",
+        "packagesPath": "C:\\Users\\ansco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ansco\\Desktop\\Etec - 2024\\CleanyBeachesAspNet\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\2ds\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ansco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -12,5 +12,9 @@
         public string Email { get; set; }
 
         public string Telefone { get; set; }
+
+        public string Color { get; set; }
+
+        public Regiao regiao { get; set; }
     }
 }
