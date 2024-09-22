@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjetoCleanyBeaches")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1849a80690d8a7ed2712811da029e504d26fb08e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9bc12cd17a613bf431a003cef297729b9b54fd7c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjetoCleanyBeaches")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjetoCleanyBeaches")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

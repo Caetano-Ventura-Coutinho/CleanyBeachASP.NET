@@ -245,3 +245,34 @@ F:\2A-DS-PI\3 Bimestre duplas\CAETANO E DANIEL\Caetano\CleanyBeachASP.NET\Projet
 F:\2A-DS-PI\3 Bimestre duplas\CAETANO E DANIEL\Caetano\CleanyBeachASP.NET\ProjetoCleanyBeaches\obj\Debug\net8.0\ProjetoCleanyBeaches.pdb
 F:\2A-DS-PI\3 Bimestre duplas\CAETANO E DANIEL\Caetano\CleanyBeachASP.NET\ProjetoCleanyBeaches\obj\Debug\net8.0\ProjetoCleanyBeaches.genruntimeconfig.cache
 F:\2A-DS-PI\3 Bimestre duplas\CAETANO E DANIEL\Caetano\CleanyBeachASP.NET\ProjetoCleanyBeaches\obj\Debug\net8.0\ref\ProjetoCleanyBeaches.dll
+C:\Users\ansco\Source\Repos\CleanyBeachASP.NET\ProjetoCleanyBeaches\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ansco\Source\Repos\CleanyBeachASP.NET\ProjetoCleanyBeaches\bin\Debug\net8.0\appsettings.json
+C:\Users\ansco\Source\Repos\CleanyBeachASP.NET\ProjetoCleanyBeaches\bin\Debug\net8.0\ProjetoCleanyBeaches.staticwebassets.runtime.json
+C:\Users\ansco\Source\Repos\CleanyBeachASP.NET\ProjetoCleanyBeaches\bin\Debug\net8.0\ProjetoCleanyBeaches.exe
+C:\Users\ansco\Source\Repos\CleanyBeachASP.NET\ProjetoCleanyBeaches\bin\Debug\net8.0\ProjetoCleanyBeaches.deps.json
+C:\Users\ansco\Source\Repos\CleanyBeachASP.NET\ProjetoCleanyBeaches\bin\Debug\net8.0\ProjetoCleanyBeaches.runtimeconfig.json
+C:\Users\ansco\Source\Repos\CleanyBeachASP.NET\ProjetoCleanyBeaches\bin\Debug\net8.0\ProjetoCleanyBeaches.dll
+C:\Users\ansco\Source\Repos\CleanyBeachASP.NET\ProjetoCleanyBeaches\bin\Debug\net8.0\ProjetoCleanyBeaches.pdb
+C:\Users\ansco\Source\Repos\CleanyBeachASP.NET\ProjetoCleanyBeaches\obj\Debug\net8.0\ProjetoCleanyBeaches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ansco\Source\Repos\CleanyBeachASP.NET\ProjetoCleanyBeaches\obj\Debug\net8.0\ProjetoCleanyBeaches.AssemblyInfoInputs.cache
+C:\Users\ansco\Source\Repos\CleanyBeachASP.NET\ProjetoCleanyBeaches\obj\Debug\net8.0\ProjetoCleanyBeaches.AssemblyInfo.cs
+C:\Users\ansco\Source\Repos\CleanyBeachASP.NET\ProjetoCleanyBeaches\obj\Debug\net8.0\ProjetoCleanyBeaches.csproj.CoreCompileInputs.cache
+C:\Users\ansco\Source\Repos\CleanyBeachASP.NET\ProjetoCleanyBeaches\obj\Debug\net8.0\ProjetoCleanyBeaches.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ansco\Source\Repos\CleanyBeachASP.NET\ProjetoCleanyBeaches\obj\Debug\net8.0\ProjetoCleanyBeaches.RazorAssemblyInfo.cache
+C:\Users\ansco\Source\Repos\CleanyBeachASP.NET\ProjetoCleanyBeaches\obj\Debug\net8.0\ProjetoCleanyBeaches.RazorAssemblyInfo.cs
+C:\Users\ansco\Source\Repos\CleanyBeachASP.NET\ProjetoCleanyBeaches\obj\Debug\net8.0\ProjetoCleanyBeaches.sourcelink.json
+C:\Users\ansco\Source\Repos\CleanyBeachASP.NET\ProjetoCleanyBeaches\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ansco\Source\Repos\CleanyBeachASP.NET\ProjetoCleanyBeaches\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ansco\Source\Repos\CleanyBeachASP.NET\ProjetoCleanyBeaches\obj\Debug\net8.0\staticwebassets\msbuild.ProjetoCleanyBeaches.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ansco\Source\Repos\CleanyBeachASP.NET\ProjetoCleanyBeaches\obj\Debug\net8.0\staticwebassets\msbuild.build.ProjetoCleanyBeaches.props
+C:\Users\ansco\Source\Repos\CleanyBeachASP.NET\ProjetoCleanyBeaches\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProjetoCleanyBeaches.props
+C:\Users\ansco\Source\Repos\CleanyBeachASP.NET\ProjetoCleanyBeaches\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProjetoCleanyBeaches.props
+C:\Users\ansco\Source\Repos\CleanyBeachASP.NET\ProjetoCleanyBeaches\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ansco\Source\Repos\CleanyBeachASP.NET\ProjetoCleanyBeaches\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ansco\Source\Repos\CleanyBeachASP.NET\ProjetoCleanyBeaches\obj\Debug\net8.0\scopedcss\bundle\ProjetoCleanyBeaches.styles.css
+C:\Users\ansco\Source\Repos\CleanyBeachASP.NET\ProjetoCleanyBeaches\obj\Debug\net8.0\scopedcss\projectbundle\ProjetoCleanyBeaches.bundle.scp.css
+C:\Users\ansco\Source\Repos\CleanyBeachASP.NET\ProjetoCleanyBeaches\obj\Debug\net8.0\ProjetoCleanyBeaches.dll
+C:\Users\ansco\Source\Repos\CleanyBeachASP.NET\ProjetoCleanyBeaches\obj\Debug\net8.0\refint\ProjetoCleanyBeaches.dll
+C:\Users\ansco\Source\Repos\CleanyBeachASP.NET\ProjetoCleanyBeaches\obj\Debug\net8.0\ProjetoCleanyBeaches.pdb
+C:\Users\ansco\Source\Repos\CleanyBeachASP.NET\ProjetoCleanyBeaches\obj\Debug\net8.0\ProjetoCleanyBeaches.genruntimeconfig.cache
+C:\Users\ansco\Source\Repos\CleanyBeachASP.NET\ProjetoCleanyBeaches\obj\Debug\net8.0\ref\ProjetoCleanyBeaches.dll

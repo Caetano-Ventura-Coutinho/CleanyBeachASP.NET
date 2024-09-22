@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ansco\\Desktop\\Etec - 2024\\CleanyBeachesAspNet\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj",
+      "projectUniqueName": "C:\\Users\\ansco\\Source\\Repos\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj",
       "projectName": "ProjetoCleanyBeaches",
-      "projectPath": "C:\\Users\\ansco\\Desktop\\Etec - 2024\\CleanyBeachesAspNet\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj",
+      "projectPath": "C:\\Users\\ansco\\Source\\Repos\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\ProjetoCleanyBeaches.csproj",
       "packagesPath": "C:\\Users\\ansco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ansco\\Desktop\\Etec - 2024\\CleanyBeachesAspNet\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\obj\\",
+      "outputPath": "C:\\Users\\ansco\\Source\\Repos\\CleanyBeachASP.NET\\ProjetoCleanyBeaches\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

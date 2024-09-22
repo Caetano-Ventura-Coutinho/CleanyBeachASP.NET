@@ -135,6 +135,8 @@ namespace ProjetoCleanyBeaches.Controllers
             };
             return View(ongs);
         }
+
+
         public IActionResult Privacy()
         {
             return View();
